@@ -1,0 +1,3 @@
+[submodule "deep-learning"]
+	path = deep-learning
+	url = git@github.com:MickeyMouseScienceReadingGroup/deep-learning.git

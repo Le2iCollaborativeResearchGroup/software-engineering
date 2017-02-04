@@ -3,5 +3,5 @@
 In this repository, you can put all the information which are linked to software
 engineering. Check the following list for inspiration.
 
-
-### Deep-learning:
+* [deep-learning](
+  https://github.com/MickeyMouseScienceReadingGroup/deep-learning) repository.
