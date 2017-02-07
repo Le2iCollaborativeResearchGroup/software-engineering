@@ -5,3 +5,6 @@ engineering. Check the following list for inspiration.
 
 * [deep-learning](
   https://github.com/MickeyMouseScienceReadingGroup/deep-learning) repository.
+
+* [Ros](
+  https://github.com/Le2iCollaborativeResearchGroup/Ros/tree/master) repository.
