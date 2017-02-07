@@ -4,3 +4,6 @@
 [submodule "Ros"]
 	path = Ros
 	url = git@github.com:Le2iCollaborativeResearchGroup/Ros.git
+[submodule "coding-language"]
+	path = coding-language
+	url = git@github.com:Le2iCollaborativeResearchGroup/coding-language.git
