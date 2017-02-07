@@ -1,3 +1,6 @@
 [submodule "deep-learning"]
 	path = deep-learning
-	url = https://github.com/Le2iCollaborativeResearchGroup/deep-learning.git
+	url = git@github.com:MickeyMouseScienceReadingGroup/deep-learning.git
+[submodule "Ros"]
+	path = Ros
+	url = git@github.com:Le2iCollaborativeResearchGroup/Ros.git
